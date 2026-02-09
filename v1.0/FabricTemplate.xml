@@ -3,6 +3,18 @@
 <clibs name="Fabric">
   <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-1Essentials.drawio</add>
   <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-2Text.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-1Essentials.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-2Text.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-3DataFlow.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-4ERD.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-5Sketches.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-AI.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-DataEngineering.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-General.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-Miscelanous.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-PBI.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-RealTime.drawio</add>
+  <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Fabric-Sensitivity.drawio</add>
 </clibs>
 <template section="Microsoft" url="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/start-fabric-kit.drawio"
   preview="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/image.png" 
