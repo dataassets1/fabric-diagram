@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="DrawIO Core">
-    <add>Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdataassets1%2Ffabric-diagram%2Frefs%2Fheads%2Fmain%2Fv1.0%2FDrawio-1Essentials.drawio</add>
-    <add>Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdataassets1%2Ffabric-diagram%2Frefs%2Fheads%2Fmain%2Fv1.0%2FDrawio-2Text.drawio</add>
+    <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-1Essentials.drawio</add>
+    <add>Uhttps://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/Drawio-2Text.drawio</add>
   </clibs>
-  <template section="Title" subsection="Subtitle" url="https%3A%2F%2Fraw.githubusercontent.com%2Fdataassets1%2Ffabric-diagram%2Frefs%2Fheads%2Fmain%2Fv1.0%2Fstart-fabric-kit.drawio" title="Diagram" name="Tooltip" preview="https://example.com/diagram.png" libs="general;basic" clibs="example" tags="term1;term2" />
+  <template section="My title" subsection="My Subtitle" url="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/start-fabric-kit.drawio" title="Diagram" name="Tooltip" preview="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/image.png" libs="general;basic" clibs="example" tags="term1;term2" />
 </templates>
