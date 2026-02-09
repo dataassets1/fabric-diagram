@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="DrawIO Core">
-    <add>Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdataassets1%2Ffabric-diagram%2Frefs%2Fheads%2Fmain%2Fv1.0%2FDrawio-1Essentials.drawio</add>
+    <add>Uhttps://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/freehand-rockpool-shapes.xml</add>
     <add>Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdataassets1%2Ffabric-diagram%2Frefs%2Fheads%2Fmain%2Fv1.0%2FDrawio-2Text.drawio</add>
   </clibs>
   <template section="Microsoft" subsection="Fabric" url="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/start-fabric-kit.drawio" title="Fabric Diagram" name="Fabric Diagram N" preview="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.0/image.png" libs="general;basic" clibs="example" tags="term1;term2" />
