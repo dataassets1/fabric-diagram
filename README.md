@@ -1,8 +1,10 @@
-# fabric-diagram
-Templates for Draw.IO to build astonishing diagrams for Microsoft Fabric
+# Diagrams for Microsoft Fabric in Draw.IO
 
-1. Add that to Extras/Configuration one time:
-```
+## How to use that template - Method 1 (the easiest one)
+1. Open https://app.diagrams.net/
+2. Go to Menu -> Extras -> Configuration
+3. A code there:
+   ```
 {
   "templateFile": "https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/template/FabricTemplate.xml"
 }
