@@ -5,6 +5,7 @@
 This method is good if you need:
 - quick access to diagramming in your browser with an Internet connection
 
+Steps:
 1. Open https://app.diagrams.net/
 2. Go to Menu -> Extras -> Configuration
 3. Add code there:
@@ -18,11 +19,11 @@ This method is good if you need:
 
 ## How to use that template - Method 2
 This method is good if you need:
-- The offline DrawIO application
-
+ - The offline DrawIO application
 Its limitation is:
-- You need to add a custom library every time you create a new diagram - it takes 10 seconds, but adds that hassle
+ - You need to add a custom library every time you create a new diagram - it takes 10 seconds, but adds that hassle
 
+Steps:
 1. Right Click -> Save Link As -> to your dedicated folder for Draw.IO libraries:
 - [Fabric Draw.IO Library](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Fabric.xml)
 - [Core Draw.IO Library](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml)
