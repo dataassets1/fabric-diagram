@@ -24,7 +24,8 @@ Its limitation is:
 - You need to add a custom library every time you create a new diagram - it takes 10 seconds, but adds that hassle
 
 1. Download & Copy those two files to your dedicated folder for Draw.IO libraries:
-[test](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml?raw=true)
+<a href="https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml" download>Download Core.xml</a>
+
 [Core.xml](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml)
 [Fabric.xml](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Fabric.xml)
 
