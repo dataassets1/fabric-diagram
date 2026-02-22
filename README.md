@@ -1,7 +1,9 @@
 # Diagrams for Microsoft Fabric in Draw.IO
 
-## How to use that template - Method 1 (the easiest one)
-This method is good if you need quick access to diagramming in your browser with an Internet connection.
+# How to use that template
+## Method 1 - Online Draw.IO
+This method is good if you need:
+- quick access to diagramming in your browser with an Internet connection
 
 1. Open https://app.diagrams.net/
 2. Go to Menu -> Extras -> Configuration
@@ -15,9 +17,14 @@ This method is good if you need quick access to diagramming in your browser with
 
 
 ## How to use that template - Method 2
-If you use the offline DrawIO application, this method is for you. Its only con is that you need to add a custom library every time you create a new diagram. Actually, it takes 10 seconds.
+This method is good if you need:
+- The offline DrawIO application
+
+Its limitation is:
+- You need to add a custom library every time you create a new diagram - it takes 10 seconds, but adds that hassle
 
 1. Download & Copy those two files to your dedicated folder for Draw.IO libraries:
+[test](https://github.com/dataassets1/fabric-diagram/blob/main/v1.01/Core.xml?raw=true)
 [Core.xml](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml)
 [Fabric.xml](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Fabric.xml)
 
