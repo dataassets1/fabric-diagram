@@ -23,9 +23,9 @@ This method is good if you need:
 Its limitation is:
 - You need to add a custom library every time you create a new diagram - it takes 10 seconds, but adds that hassle
 
-1. Download & Copy those two files to your dedicated folder for Draw.IO libraries:
+1. Right Click -> Save Link As -> to your dedicated folder for Draw.IO libraries:
 - [Fabric Draw.IO Library](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Fabric.xml)
-- [Most Used Draw.IO Core](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml)
+- [Core Draw.IO Library](https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/Core.xml)
 
 
 2. Open Draw.IO (offline or online)
